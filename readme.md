@@ -1,0 +1,2 @@
+To run with arguments (targetDir, destinationDir) like :
+java -jar C:/.../Worskpace/eclipse/TransformJavaDirToOutputFile/target/TransformJavaDirToOutputFile-0.0.1-SNAPSHOT.jar C:/.../Worskpace/eclipse/spring-challenge-2021/src/main/java/league/bronze C:/.../Worskpace/eclipse/spring-challenge-2021/Output.java
